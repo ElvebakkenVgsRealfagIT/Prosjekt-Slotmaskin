@@ -1,5 +1,5 @@
 # <ins>Prosjekt Slotmaskin</ins>
-# <3#>Rocket Riches AS<3#>
+# Rocket Riches AS
 
 ### – IT2 bedriftsprosjekt
 
@@ -11,8 +11,8 @@ Her er det plass for et samarbeidsprosjekt i IT2. Teamet samarbeider med felles 
 * Team-medlemmer: August, Eila, Fredrik, Nikolai og Pia M.
 
 * Interessenter
-  * Investorer (læreren)
-  * Brukere (andre elever, ikke fra teamet som utvikler løsningen)
+  * Investorer (Unni Wohlen, Harald Bergensen Zeigler)
+  * Brukere (Andre medelever, interesserte)
 
 ### Prosjektet
 * Skal være et produkt som Riverbank Robotics kan tjene penger på
