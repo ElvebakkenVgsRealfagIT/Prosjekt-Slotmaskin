@@ -1,5 +1,5 @@
 # <ins>Prosjekt Slotmaskin</ins>
-# <ins>Rocket Riches AS</ins>
+# <3#>Rocket Riches AS<3#>
 
 ### – IT2 bedriftsprosjekt
 
