@@ -1,4 +1,6 @@
 # <ins>Prosjekt Slotmaskin</ins>
+# <ins>Rocket Riches AS</ins>
+
 ### – IT2 bedriftsprosjekt
 
 Her er det plass for et samarbeidsprosjekt i IT2. Teamet samarbeider med felles filer i samme repository.
